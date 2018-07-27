@@ -1,0 +1,47 @@
+{
+  "mensajes" : {
+    "-LIMfj3-CGkNIwAyqhz0" : {
+      "name" : "matias punx",
+      "profilePicUrl" : "https://lh6.googleusercontent.com/-pO3GEn669Kc/AAAAAAAAAAI/AAAAAAAA62Q/sopGcNu4sn8/photo.jpg",
+      "text" : "Hola, me gustaria una pagina web :)"
+    }
+  },
+  "works": {
+    "01": {
+      "title": "Movistar",
+      "imageUrl": "img/w01.jpg",
+      "text": "Sitio Web de Movistar. Desarrollado para Cuoma.",
+      "workUrl": "http://movistar.com.ar"
+    },
+    "02": {
+      "title": "GetTheLook",
+      "imageUrl": "img/w02.jpg",
+      "text": "Sitio web desarrollado sobre Wordpress. Para Cuoma.",
+      "workUrl": "http://getthelook.com.ar/"
+    },
+    "03": {
+      "title": "Marcos Fecchino",
+      "imageUrl": "img/w03.jpg",
+      "text": "Sitio web para el fotografo Marcos Fecchino desarrollado con Wordpress.",
+      "workUrl": "http://marcosfecchino.com"
+    },
+    "04": {
+      "title": "Santiago Giorgini",
+      "imageUrl": "img/w04.jpg",
+      "text": "Sitio web para Santiago Giorgini desarrollado con Wordpress. En conjunto con Martin Koen.",
+      "workUrl": "http://www.santiagogiorgini.com.ar"
+    },
+    "05": {
+      "title": "Simplicity",
+      "imageUrl": "img/w05.jpg",
+      "text": "Sitio web para Simplicity desarrollado con Wordpress. Para Cuoma.",
+      "workUrl": "https://simplicity.com.ar"
+    },
+    "06": {
+      "title": "Quell",
+      "imageUrl": "img/w06.jpg",
+      "text": "Sitio web para Simplicity desarrollado con Wordpress. Para Cuoma.",
+      "workUrl": "https://quell.com.ar"
+    }
+  }
+}

@@ -1,0 +1,61 @@
+$dark-primary-color: #C2185B;
+$default-primary-color: #E91E63;
+$light-primary-color: #F8BBD0;
+$text-primary-color: #FFFFFF;
+$accent-color: #536DFE;
+$accent-color-alt: lighten($accent-color, 25%);
+$primary-background-color: #F8BBD0;
+$primary-background-color-alt: #FFF;
+$primary-background-color-50: rgba($primary-background-color-alt, .5);
+$primary-background-color-25: rgba($primary-background-color-alt, .25);
+$primary-background-color-10: rgba($primary-background-color-alt, .1);
+$primary-text-color: #212121;
+$secondary-text-color: #757575;
+$disabled-text-color: #BDBDBD;
+$divider-color: #BDBDBD;
+
+// Components
+
+// paper-drawer-panel
+$drawer-menu-color: #ffffff;
+$drawer-border-color: 1px solid #ccc;
+$drawer-toolbar-border-color: 1px solid rgba(0, 0, 0, 0.22);
+
+// paper-menu
+$paper-menu-background-color: #fff;
+$menu-link-color: #111111;
+
+// paper-input
+$paper-input-container-color: rgba(255, 255, 255, 0.64);
+$paper-input-container-focus-color: rgba(255, 255, 255, 1);
+$paper-input-container-input-color: #fff;
+
+:root {
+  --dark-primary-color: #{inspect($dark-primary-color)};
+  --default-primary-color: #{inspect($default-primary-color)};
+  --light-primary-color: #{inspect($light-primary-color)};
+  --text-primary-color: #{inspect($text-primary-color)};
+  --accent-color: #{inspect($accent-color)};
+  --accent-color-alt: #{inspect($accent-color-alt)};
+  --primary-background-color: #{inspect($primary-background-color)};
+  --primary-background-color-alt: #{inspect($primary-background-color-alt)};
+  --primary-background-color-50: #{inspect($primary-background-color-50)};
+  --primary-background-color-25: #{inspect($primary-background-color-25)};
+  --primary-background-color-10: #{inspect($primary-background-color-10)};
+  --primary-text-color: #{inspect($primary-text-color)};
+  --secondary-text-color: #{inspect($secondary-text-color)};
+  --disabled-text-color: #{inspect($disabled-text-color)};
+  --divider-color: #{inspect($divider-color)};
+  // Components
+  // paper-drawer-panel
+  --drawer-menu-color: #{inspect($drawer-menu-color)};
+  --drawer-border-color: #{inspect($drawer-border-color)};
+  --drawer-toolbar-border-color: #{inspect($drawer-toolbar-border-color)};
+  // paper-menu
+  --paper-menu-background-color: #{inspect($paper-menu-background-color)};
+  --menu-link-color: #{inspect($menu-link-color)};
+  // paper-input
+  --paper-input-container-color: #{inspect($paper-input-container-color)};
+  --paper-input-container-focus-color: #{inspect($paper-input-container-focus-color)};
+  --paper-input-container-input-color: #{inspect($paper-input-container-input-color)};
+}
