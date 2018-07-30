@@ -144,24 +144,6 @@ body {
   }
 }
 
-// @keyframes superShadow {
-//   0% {
-//     box-shadow: inset 0 0 200px rgba(0, 0, 0, 0.75);
-//   }
-//   25% {
-//     box-shadow: inset 0 0 150px rgba(0, 0, 0, 0.5);
-//   }
-//   50% {
-//     box-shadow: inset 0 0 100px rgba(0, 0, 0, 0.25);
-//   }
-//   75% {
-//     box-shadow: inset 0 0 50px rgba(0, 0, 0, 0.1);
-//   }
-//   100% {
-//     box-shadow: inset 0 0 10px rgba(0, 0, 0, 0);
-//   }
-// }
-
 .home-container {
   height: 100vh;
   width: 100%;
@@ -177,19 +159,17 @@ body {
 }
 
 .home {
-  background-image: url(../img/bg1.jpg);
+  background-image: url(../img/bg.jpg);
   background-position: center;
   background-size: cover;
-  //box-shadow: inset 0 0 250px rgba(#536DFE, 0.8);
+  box-shadow: inset 0 0 250px rgba(#536DFE, 0.8);
   height: 100vh;
   width: 100%;
   position: absolute;
   top:0;
   z-index: 1;
-  // animation: superShadow 5s infinite;
   .home__inn {
     background-color: rgba(255, 255, 255, 0.15);
-    // border-radius: 3px;
     padding: 30px;
     position: absolute;
     top: 50%;
