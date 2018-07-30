@@ -3,7 +3,7 @@
 </p>
 <p align="center">
 <a href="https://matias-punx.firebaseapp.com/" align="center">:zap: Demo online</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="#getting-started">:rocket: Empezá a usarlo</a>
+<a href="#empezá-a-usarlo">:rocket: Empezá a usarlo</a>
 </p>
 
 ## Empezá a usarlo
