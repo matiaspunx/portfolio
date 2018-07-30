@@ -11,15 +11,16 @@
 1. Setup
    * Instalar [Node.js (v8.9.4 o superior)](https://nodejs.org/en/download/)
    * Instalar Firebase CLI: `npm i -g firebase-tools`
-1. Crear una cuenta en [Firebase](https://console.firebase.google.com) y conectá el [Firebase CLI](https://firebase.google.com/docs/cli/): `firebase login`
-1. Actualizá tu proyecto desde la terminal. `firebase use --add`
-1. Impora la info inicial  a la base de datos de Firebase
-    * Abri y editar /data/primer-carga-datos.json
+1. Crear una cuenta en [Firebase](https://console.firebase.google.com)
+1. Creá un nuevo proyecto en [Firebase](https://console.firebase.google.com) y conectá el [Firebase CLI](https://firebase.google.com/docs/cli/): `firebase login`
+1. Actualizá tu proyecto desde la terminal y conectá tu base de datos: `firebase use --add`
+1. Importá la info inicial a la base de datos de Firebase
+    * Abrí y editá la [info inicial](/public/data/primer-carga-datos.json)
       - Andá a https://console.firebase.google.com/project/%YOUR_PROJECT_ID%/database/
       - Importá el archivo .json
-1. Servidor local
+1. Corré el proyecto en un servidor local
    * `firebase serve`
-1. Deploy
+1. Deploy a Firebase
    * `firebae deploy`
 
 *NOTE:* Cualquier problema que surja no duden en consultarme!
