@@ -26,7 +26,7 @@ body {
   min-height: auto;
   transition: all .35s ease;
   &.scrolled {
-    background-color: rgba(0, 0, 0, .55);
+    background-color: rgba(0, 0, 0, .8);
     box-shadow: 2px -1px 7px 0 rgba(0, 0, 0, 0.3), -2px 3px 8px 0 rgba(0, 0, 0, 0.28);
   }
   .portfolio-header__in {
@@ -124,6 +124,7 @@ body {
       width: 200px;
       height: 200px;
       border-radius: 100%;
+      box-shadow: 2px 2px 5px rgba(#000, .25);
       img {
         width: 100%;
         height: auto;
@@ -259,11 +260,15 @@ textarea {
   resize: inherit;
 }
 
+.mdl-layout__content {
+  margin-top: 30px;
+}
+
 .mdl-layout__content--dark {
   background-color: #111111;
-  margin-top: 10px;
   .section-title {
     color: #f8f8f8;
+    border-bottom: 1px solid #444;
   }
   .section-text {
     color: #f8f8f8;
