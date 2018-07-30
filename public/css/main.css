@@ -434,4 +434,16 @@ footer,
 .mdl-mini-footer {
   background-color: #333;
 }
+
+footer p,
+.mdl-mini-footer p {
+  font-size: .8rem;
+  line-height: 1rem;
+  color: #ddd;
+}
+
+footer li,
+.mdl-mini-footer li {
+  font-size: .8rem;
+}
 /*# sourceMappingURL=main.css.map */
