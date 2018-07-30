@@ -18,6 +18,7 @@
     * Abrí y editá la [info inicial](/public/data/primer-carga-datos.json)
       - Andá a https://console.firebase.google.com/project/%YOUR_PROJECT_ID%/database/
       - Importá el archivo .json
+1. Habilitá el login con Google en los [proveedores de autenticación](https://console.firebase.google.com/u/0/project/%YOUR_PROJECT_ID%/authentication/providers)
 1. Corré el proyecto en un servidor local
    * `firebase serve`
 1. Deploy a Firebase
