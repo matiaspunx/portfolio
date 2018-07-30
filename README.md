@@ -24,7 +24,7 @@
 1. Deploy a Firebase
    * `firebae deploy`
 
-*NOTE:* Cualquier problema que surja no duden en consultarme!
+*NOTE:* ¡Cualquier problema que surja en la configuración o instalación no duden en consultarme!
 
 ## TODO
 
@@ -34,3 +34,11 @@
 ## Version
 
 * Versión 0.1 BETA.
+
+## Licencia
+
+Este repo es de código abierto y pueden hacer fork, clonarlo y usarlo para crear su propio porftolio y obviamente, si pueden, darme crédito. Cualquier mejora me pueden enviar sus push request y las veo. Si quieren comentar tambien pueden hacerlo.
+
+## Contacto
+
+Si necesitas contactarme podes hacerlo a matias.punx[at]gmail.com.
