@@ -126,8 +126,14 @@ body {
   font-family: 'Roboto', sans-serif;
   font-size: 1.8rem;
   font-weight: 700;
+  line-height: 1.9rem;
   padding: 20px;
   border-bottom: 1px solid #ccc;
+}
+
+.section-title span {
+  font-size: 1.2rem;
+  line-height: 2rem;
 }
 
 @media (max-width: 767px) {
@@ -152,7 +158,7 @@ body {
 }
 
 .portfolio-max-width__inner {
-  padding: 10px;
+  padding: 70px 10px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -299,6 +305,10 @@ img.article-image {
 .portfolio-max-width {
   max-width: 1140px;
   margin: auto;
+}
+
+.my-works {
+  padding: 70px 0;
 }
 
 .no-padding {
