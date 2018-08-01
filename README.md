@@ -1,5 +1,5 @@
 <p align="center">
-<img width="339px" src="https://matias-punx.firebaseapp.com/img/iso.png">
+<img width="339px" src="https://matias-punx.firebaseapp.com/img/favicon.png">
 </p>
 <p align="center">
 <a href="https://matias-punx.firebaseapp.com/" align="center">:zap: Demo online</a>&nbsp;&nbsp;|&nbsp;&nbsp;
